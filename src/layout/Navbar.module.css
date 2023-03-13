@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 8vh;
+  list-style: none;
+}
+
+.navbar li {
+  margin: 0 1em;
+}
